@@ -1,0 +1,7 @@
+SetTimeout(function, milliseconds)
+The time mentioned in the SetTimeout after that time the function it calls function
+
+
+
+SetInterval(function, milliseconds)
+The fucntion will run untill the time is given
